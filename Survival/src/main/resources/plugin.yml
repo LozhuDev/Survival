@@ -1,0 +1,22 @@
+name: Survival
+version: 1.0
+main: net.survival.main.Main
+author: Lozhu
+api-version: 1.17
+commands:
+  spawn:
+    description: Warp to spawn!
+  rtp:
+    description: Warp to a random location in the survival world!
+  setrank:
+    description: Set someones rank!
+  ec:
+    description: Open your enderchest!
+  skills:
+    description: Open your skills menu!
+  quests:
+    description: Open the quests menu!
+  warp:
+    description: Open the warps menu!
+  warps:
+    description: Open the warps menu!
